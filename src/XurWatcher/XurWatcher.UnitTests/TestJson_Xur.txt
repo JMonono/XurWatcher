@@ -1,0 +1,1084 @@
+﻿{
+  "Response": {
+    "data": {
+      "vendorHash": 2796397637,
+      "nextRefreshDate": "2017-01-13T09:00:00Z",
+      "enabled": true,
+      "saleItemCategories": [
+        {
+          "categoryIndex": 34,
+          "categoryTitle": "Curios",
+          "saleItems": [
+            {
+              "item": {
+                "itemHash": 211861343,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 0,
+                "stackSize": 10,
+                "qualityLevel": 0,
+                "stats": [],
+                "canEquip": true,
+                "equipRequiredLevel": 0,
+                "unlockFlagHashRequiredToEquip": 0,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "talentGridHash": 0,
+                "nodes": [],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": false,
+                "isGridComplete": false,
+                "perks": [],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 299,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 3
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 211861343,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 0,
+                "stackSize": 3,
+                "qualityLevel": 0,
+                "stats": [],
+                "canEquip": true,
+                "equipRequiredLevel": 0,
+                "unlockFlagHashRequiredToEquip": 0,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "talentGridHash": 0,
+                "nodes": [],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": false,
+                "isGridComplete": false,
+                "perks": [],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 298,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 1
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 417308266,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 0,
+                "stackSize": 5,
+                "qualityLevel": 0,
+                "stats": [],
+                "canEquip": true,
+                "equipRequiredLevel": 0,
+                "unlockFlagHashRequiredToEquip": 0,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "talentGridHash": 0,
+                "nodes": [],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": false,
+                "isGridComplete": false,
+                "perks": [],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 547,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 7
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 1880070440,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 0,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [],
+                "canEquip": true,
+                "equipRequiredLevel": 0,
+                "unlockFlagHashRequiredToEquip": 0,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "talentGridHash": 0,
+                "nodes": [],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": false,
+                "isGridComplete": false,
+                "perks": [],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 295,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 23
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 1880070441,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 0,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [],
+                "canEquip": true,
+                "equipRequiredLevel": 0,
+                "unlockFlagHashRequiredToEquip": 0,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "talentGridHash": 0,
+                "nodes": [],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": false,
+                "isGridComplete": false,
+                "perks": [],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 294,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 23
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            }
+          ]
+        },
+        {
+          "categoryIndex": 38,
+          "categoryTitle": "Material Exchange",
+          "saleItems": [
+            {
+              "item": {
+                "itemHash": 937555249,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 0,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [],
+                "canEquip": true,
+                "equipRequiredLevel": 0,
+                "unlockFlagHashRequiredToEquip": 0,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "talentGridHash": 0,
+                "nodes": [],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": false,
+                "isGridComplete": false,
+                "perks": [],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 300,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 2
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 452597397,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 0,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [],
+                "canEquip": true,
+                "equipRequiredLevel": 0,
+                "unlockFlagHashRequiredToEquip": 0,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "talentGridHash": 0,
+                "nodes": [],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": false,
+                "isGridComplete": false,
+                "perks": [],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 301,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 7
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            }
+          ]
+        },
+        {
+          "categoryIndex": 51,
+          "categoryTitle": "Exotic Gear",
+          "saleItems": [
+            {
+              "item": {
+                "itemHash": 1690514801,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 0,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [],
+                "canEquip": true,
+                "equipRequiredLevel": 0,
+                "unlockFlagHashRequiredToEquip": 0,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "talentGridHash": 0,
+                "nodes": [],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": false,
+                "isGridComplete": false,
+                "perks": [],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 544,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 31
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 941890990,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 55,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [
+                  {
+                    "statHash": 144602215,
+                    "value": 76,
+                    "maximumValue": 0
+                  },
+                  {
+                    "statHash": 1735777505,
+                    "value": 0,
+                    "maximumValue": 0
+                  },
+                  {
+                    "statHash": 4244567218,
+                    "value": 0,
+                    "maximumValue": 0
+                  }
+                ],
+                "primaryStat": {
+                  "statHash": 3897883278,
+                  "value": 350,
+                  "maximumValue": 0
+                },
+                "canEquip": true,
+                "equipRequiredLevel": 40,
+                "unlockFlagHashRequiredToEquip": 2166136261,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "progression": {
+                  "dailyProgress": 0,
+                  "weeklyProgress": 0,
+                  "currentProgress": 0,
+                  "level": 1,
+                  "step": 0,
+                  "progressToNextLevel": 0,
+                  "nextLevelAt": 7438,
+                  "progressionHash": 2043912351
+                },
+                "talentGridHash": 3387912249,
+                "nodes": [
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 0
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 1
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 2
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 3
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 2,
+                    "state": 10,
+                    "hidden": true,
+                    "nodeHash": 4
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 5
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 6
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 7
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 8
+                  }
+                ],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": true,
+                "isGridComplete": false,
+                "perks": [
+                  {
+                    "iconPath": "/common/destiny_content/icons/edaf4978e9d8bc56e0e2e61350c25c7c.png",
+                    "perkHash": 1195575848,
+                    "isActive": true
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/2bf6a3047fd46c622f622e63e551a290.png",
+                    "perkHash": 707792617,
+                    "isActive": false
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/33ca57cc025af58f1e3d2f4538e3cab1.png",
+                    "perkHash": 2664229771,
+                    "isActive": false
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/bdb2f4b141f8459aac29cb0c964edbb0.png",
+                    "perkHash": 2131801999,
+                    "isActive": false
+                  }
+                ],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 561,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 13
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 1458254032,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 55,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [
+                  {
+                    "statHash": 144602215,
+                    "value": 0,
+                    "maximumValue": 0
+                  },
+                  {
+                    "statHash": 1735777505,
+                    "value": 75,
+                    "maximumValue": 0
+                  },
+                  {
+                    "statHash": 4244567218,
+                    "value": 0,
+                    "maximumValue": 0
+                  }
+                ],
+                "primaryStat": {
+                  "statHash": 3897883278,
+                  "value": 350,
+                  "maximumValue": 0
+                },
+                "canEquip": true,
+                "equipRequiredLevel": 40,
+                "unlockFlagHashRequiredToEquip": 201769094,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "progression": {
+                  "dailyProgress": 0,
+                  "weeklyProgress": 0,
+                  "currentProgress": 0,
+                  "level": 1,
+                  "step": 0,
+                  "progressToNextLevel": 0,
+                  "nextLevelAt": 7438,
+                  "progressionHash": 2043912351
+                },
+                "talentGridHash": 856096651,
+                "nodes": [
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 0
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 1,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 1
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 4,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 2
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 2,
+                    "state": 10,
+                    "hidden": true,
+                    "nodeHash": 3
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 4
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 5
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 1,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 6
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 7
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 8
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 9
+                  }
+                ],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": true,
+                "isGridComplete": false,
+                "perks": [
+                  {
+                    "iconPath": "/common/destiny_content/icons/33ca46bab660a4357165384f788b1ec4.png",
+                    "perkHash": 1170991030,
+                    "isActive": true
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/856a8c161d39aa53e81e79a4e9788f37.png",
+                    "perkHash": 177663318,
+                    "isActive": false
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/701d3c4ee61b25273d66170aba366c6e.png",
+                    "perkHash": 836377941,
+                    "isActive": false
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/322d80af65f83a8f6227bf426d8ed3d3.png",
+                    "perkHash": 2152652274,
+                    "isActive": false
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/a1462b844afa3372b09662821c659436.png",
+                    "perkHash": 3649859369,
+                    "isActive": false
+                  }
+                ],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 573,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 13
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 1519376146,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 55,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [
+                  {
+                    "statHash": 144602215,
+                    "value": 75,
+                    "maximumValue": 0
+                  },
+                  {
+                    "statHash": 1735777505,
+                    "value": 0,
+                    "maximumValue": 0
+                  },
+                  {
+                    "statHash": 4244567218,
+                    "value": 0,
+                    "maximumValue": 0
+                  }
+                ],
+                "primaryStat": {
+                  "statHash": 3897883278,
+                  "value": 350,
+                  "maximumValue": 0
+                },
+                "canEquip": true,
+                "equipRequiredLevel": 40,
+                "unlockFlagHashRequiredToEquip": 2726639978,
+                "cannotEquipReason": 0,
+                "damageType": 0,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": -1,
+                "damageTypeStepIndex": -1,
+                "progression": {
+                  "dailyProgress": 0,
+                  "weeklyProgress": 0,
+                  "currentProgress": 0,
+                  "level": 1,
+                  "step": 0,
+                  "progressToNextLevel": 0,
+                  "nextLevelAt": 7438,
+                  "progressionHash": 2043912351
+                },
+                "talentGridHash": 1531428517,
+                "nodes": [
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 0
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 1
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 1,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 2
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 3
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 2,
+                    "state": 10,
+                    "hidden": true,
+                    "nodeHash": 4
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 5
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 2,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 6
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 7
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 8
+                  }
+                ],
+                "useCustomDyes": false,
+                "artRegions": {},
+                "isEquipment": true,
+                "isGridComplete": false,
+                "perks": [
+                  {
+                    "iconPath": "/common/destiny_content/icons/37c7e08f516b4810c361fc183e46c5c3.png",
+                    "perkHash": 1509404812,
+                    "isActive": true
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/f208bae40351cb2ea32aeec3503e9f07.png",
+                    "perkHash": 2661061678,
+                    "isActive": false
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/4ea1254656a1dbecbbfb6c60da4afe03.png",
+                    "perkHash": 3302053862,
+                    "isActive": false
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/bdb2f4b141f8459aac29cb0c964edbb0.png",
+                    "perkHash": 2131801999,
+                    "isActive": false
+                  }
+                ],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 600,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 13
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            },
+            {
+              "item": {
+                "itemHash": 2055601062,
+                "bindStatus": 0,
+                "isEquipped": false,
+                "itemInstanceId": "0",
+                "itemLevel": 55,
+                "stackSize": 1,
+                "qualityLevel": 0,
+                "stats": [
+                  {
+                    "statHash": 4284893193,
+                    "value": 88,
+                    "maximumValue": 100
+                  },
+                  {
+                    "statHash": 4043523819,
+                    "value": 8,
+                    "maximumValue": 100
+                  },
+                  {
+                    "statHash": 1240592695,
+                    "value": 41,
+                    "maximumValue": 100
+                  },
+                  {
+                    "statHash": 155624089,
+                    "value": 73,
+                    "maximumValue": 100
+                  },
+                  {
+                    "statHash": 4188031367,
+                    "value": 79,
+                    "maximumValue": 100
+                  },
+                  {
+                    "statHash": 3871231066,
+                    "value": 36,
+                    "maximumValue": 100
+                  }
+                ],
+                "primaryStat": {
+                  "statHash": 368428387,
+                  "value": 350,
+                  "maximumValue": 0
+                },
+                "canEquip": true,
+                "equipRequiredLevel": 40,
+                "unlockFlagHashRequiredToEquip": 2166136261,
+                "cannotEquipReason": 0,
+                "damageType": 1,
+                "damageTypeHash": 0,
+                "damageTypeNodeIndex": 1,
+                "damageTypeStepIndex": 0,
+                "progression": {
+                  "dailyProgress": 0,
+                  "weeklyProgress": 0,
+                  "currentProgress": 0,
+                  "level": 1,
+                  "step": 0,
+                  "progressToNextLevel": 0,
+                  "nextLevelAt": 3570,
+                  "progressionHash": 2657402687
+                },
+                "talentGridHash": 757159365,
+                "nodes": [
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 0
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 1
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 2
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 3
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 4
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 5
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 9,
+                    "hidden": false,
+                    "nodeHash": 6
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 7
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 9,
+                    "hidden": false,
+                    "nodeHash": 8
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": false,
+                    "nodeHash": 9
+                  },
+                  {
+                    "isActivated": true,
+                    "stepIndex": 0,
+                    "state": 10,
+                    "hidden": true,
+                    "nodeHash": 10
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 11
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 12
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 6,
+                    "hidden": false,
+                    "nodeHash": 13
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 3,
+                    "hidden": false,
+                    "nodeHash": 14
+                  },
+                  {
+                    "isActivated": false,
+                    "stepIndex": 0,
+                    "state": 11,
+                    "hidden": true,
+                    "nodeHash": 15
+                  }
+                ],
+                "useCustomDyes": true,
+                "artRegions": {
+                  "3": 2
+                },
+                "isEquipment": true,
+                "isGridComplete": false,
+                "perks": [
+                  {
+                    "iconPath": "/common/destiny_content/icons/52e632c80920d336c5f883f20cbbf3df.png",
+                    "perkHash": 4205188814,
+                    "isActive": false
+                  },
+                  {
+                    "iconPath": "/common/destiny_content/icons/c84f760031d99ce7f56153e72d322eae.png",
+                    "perkHash": 2814215427,
+                    "isActive": false
+                  }
+                ],
+                "location": 3,
+                "transferStatus": 2,
+                "locked": false,
+                "lockable": false,
+                "objectives": [],
+                "state": 0
+              },
+              "vendorItemIndex": 609,
+              "itemStatus": 0,
+              "costs": [
+                {
+                  "itemHash": 1738186005,
+                  "value": 23
+                }
+              ],
+              "requiredUnlockFlags": [],
+              "failureIndexes": []
+            }
+          ]
+        }
+      ],
+      "inventoryBuckets": [],
+      "canPurchase": false
+    }
+  },
+  "ErrorCode": 1,
+  "ThrottleSeconds": 0,
+  "ErrorStatus": "Success",
+  "Message": "Ok",
+  "MessageData": {}
+}
